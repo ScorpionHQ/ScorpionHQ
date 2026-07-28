@@ -1,62 +1,90 @@
 <div align="center">
 
-#  Scorpion
+<img src="https://raw.githubusercontent.com/ScorpionHQ/ScorpionHQ/main/assets/scorpion-banner.png" width="100%">
 
-### Engineering the Future.
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+Modern+Software;Engineering+the+Future;Web+%E2%80%A2+Mobile+%E2%80%A2+AI;Clean+Architecture+%26+Innovation" alt="Typing SVG" />
-</p>
+# 🦂 SchoolPlatform
 
-Building modern software with clean architecture, scalable systems, and innovative solutions.
+### Modern Educational Management System
 
-![Divider](https://user-images.githubusercontent.com/74038190/212750884-2e4f4d8d-7df3-4c5f-9dfd-8b3f1d31b6f2.gif)
-
-</div>
-
-#  About Us
-
-Scorpion is a software engineering team dedicated to building scalable, secure, and high-performance digital solutions.
-
-We focus on modern software architecture, clean code, and innovative technologies to create products that make a real impact.
-
-
-#  What We Build
-
-- 🌐 Web Applications
-- 📱 Mobile Applications
-- 🤖 Artificial Intelligence
-- ⚙️ Backend Systems
-- ☁️ Cloud Solutions
-- 🔓 Open Source Projects
-
-
-# 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,flutter,dart,js,ts,react,nextjs,nodejs,html,css,tailwind,postgres,mysql,docker,git,github,linux,vscode,figma&perline=10" />
-
-</div>
-
-# 🌍 Vision
-
-Our vision is to build software that empowers people, businesses, and communities through technology, innovation, and exceptional engineering.
+Built with scalability, security and clean architecture.
 
 ---
 
-# 🚀 Our Services
+</div>
 
-We build reliable software solutions using modern technologies.
+## ✨ Overview
 
-- 🌐 Web Development
-- 📱 Mobile Applications
-- ⚙️ Backend Development
-- 🤖 Artificial Intelligence
-- ☁️ Cloud Solutions
-- 🎨 UI/UX Design
-- 🔓 Open Source Projects
+SchoolPlatform is a modern educational platform designed to simplify school management.
 
+It provides an integrated environment for:
 
-# 🎯 Mission
+- 👨‍🎓 Students
+- 👨‍🏫 Teachers
+- 👨‍👩‍👧 Parents
+- 🏫 Institutions
+- 📚 Subjects
+- 📅 Attendance
+- 📊 Reports
 
-To deliver scalable, reliable, and modern software solutions while maintaining the highest standards of quality and professionalism.
+---
+
+# 🚀 Features
+
+- Authentication System
+- Role Based Permissions
+- Attendance Management
+- Student Dashboard
+- Parent Dashboard
+- Teacher Dashboard
+- Institution Management
+- Reports
+- Notifications
+
+---
+
+# 🛠 Tech Stack
+
+- Python
+- Django
+- PostgreSQL
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+---
+
+# 📂 Project Structure
+
+```
+SchoolPlatform/
+
+accounts/
+students/
+teachers/
+parents_app/
+institutions/
+attendance/
+subjects/
+classes/
+templates/
+static/
+
+manage.py
+```
+
+---
+
+# 📌 Status
+
+🚧 Currently under active development.
+
+---
+
+# 👨‍💻 Team
+
+Developed by
+
+## 🦂 Scorpion Development Team
+
+Engineering the Future.
