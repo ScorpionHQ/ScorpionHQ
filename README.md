@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ScorpionHQ/ScorpionHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Scorpion
 
-Here are some ideas to get you started:
+### Building modern software with clean code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <strong>Software Development Team</strong><br>
+  Mobile • Web • AI • Open Source
+</p>
+
+</div>
+
+---
+
+##  Welcome
+
+Welcome to the official GitHub profile of **Scorpion**.
+
+We are passionate about building high-quality software, creating modern applications, and contributing to open-source projects.
+
+Our mission is to deliver clean, scalable, and professional solutions that make a real impact.
+
+---
