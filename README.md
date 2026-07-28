@@ -31,8 +31,11 @@ We believe that great software starts with clean architecture, continuous learni
 
 # 🛠 Tech Stack
 
-Coming Soon...
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,django,flutter,dart,js,react,html,css,postgres,docker,git,github,linux,vscode&perline=7" />
+
+</div>
 ---
 
 # 📂 Featured Projects
