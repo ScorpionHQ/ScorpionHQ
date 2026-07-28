@@ -3,6 +3,9 @@
 #  Scorpion
 
 ### Engineering the Future.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+Modern+Software;Engineering+the+Future;Web+%E2%80%A2+Mobile+%E2%80%A2+AI;Clean+Architecture+%26+Innovation" alt="Typing SVG" />
+</p>
 
 Building modern software with clean architecture, scalable systems, and innovative solutions.
 
