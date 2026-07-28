@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ScorpionHQ/ScorpionHQ/main/assets/scorpion-banner.png" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ScorpionHQ/ScorpionHQ/main/assets/banners/scorpion-banner.png" width="100%">
+</p>
 
-# 🦂 SchoolPlatform
+#  SchoolPlatform
 
 ### Modern Educational Management System
 
@@ -12,7 +14,7 @@ Built with scalability, security and clean architecture.
 
 </div>
 
-## ✨ Overview
+##  Overview
 
 SchoolPlatform is a modern educational platform designed to simplify school management.
 
@@ -28,7 +30,7 @@ It provides an integrated environment for:
 
 ---
 
-# 🚀 Features
+#  Features
 
 - Authentication System
 - Role Based Permissions
@@ -81,10 +83,10 @@ manage.py
 
 ---
 
-# 👨‍💻 Team
+#  Team
 
 Developed by
 
-## 🦂 Scorpion Development Team
+##  Scorpion Development Team
 
 Engineering the Future.
