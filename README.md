@@ -39,6 +39,20 @@ We focus on modern software architecture, clean code, and innovative technologie
 
 Our vision is to build software that empowers people, businesses, and communities through technology, innovation, and exceptional engineering.
 
+---
+
+# 🚀 Our Services
+
+We build reliable software solutions using modern technologies.
+
+- 🌐 Web Development
+- 📱 Mobile Applications
+- ⚙️ Backend Development
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Solutions
+- 🎨 UI/UX Design
+- 🔓 Open Source Projects
+
 # 🎯 Mission
 
 To deliver scalable, reliable, and modern software solutions while maintaining the highest standards of quality and professionalism.
