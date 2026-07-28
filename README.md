@@ -12,10 +12,9 @@ Building modern software with clean architecture, scalable systems, and innovati
 
 #  About Us
 
-Scorpion is a software development team focused on building modern, scalable, and high-quality software solutions.
+Scorpion is a software engineering team dedicated to building scalable, secure, and high-performance digital solutions.
 
-We believe that great software starts with clean architecture, continuous learning, and attention to detail.
-
+We focus on modern software architecture, clean code, and innovative technologies to create products that make a real impact.
 
 
 #  What We Build
