@@ -31,7 +31,7 @@ We focus on modern software architecture, clean code, and innovative technologie
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,flutter,dart,js,react,html,css,postgres,docker,git,github,linux,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,django,flutter,dart,js,ts,react,nextjs,nodejs,html,css,tailwind,postgres,mysql,docker,git,github,linux,vscode,figma&perline=10" />
 
 </div>
 
@@ -52,6 +52,7 @@ We build reliable software solutions using modern technologies.
 - ☁️ Cloud Solutions
 - 🎨 UI/UX Design
 - 🔓 Open Source Projects
+
 
 # 🎯 Mission
 
