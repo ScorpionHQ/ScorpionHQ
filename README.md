@@ -16,7 +16,7 @@ Scorpion is a software development team focused on building modern, scalable, an
 
 We believe that great software starts with clean architecture, continuous learning, and attention to detail.
 
----
+
 
 #  What We Build
 
@@ -27,7 +27,6 @@ We believe that great software starts with clean architecture, continuous learni
 - ☁️ Cloud Solutions
 - 🔓 Open Source Projects
 
----
 
 # 🛠 Tech Stack
 
@@ -36,26 +35,11 @@ We believe that great software starts with clean architecture, continuous learni
 <img src="https://skillicons.dev/icons?i=python,django,flutter,dart,js,react,html,css,postgres,docker,git,github,linux,vscode&perline=7" />
 
 </div>
----
 
-# 📂 Featured Projects
+# 🌍 Vision
 
-Coming Soon...
+Our vision is to build software that empowers people, businesses, and communities through technology, innovation, and exceptional engineering.
 
----
+# 🎯 Mission
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ScorpionHQ&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScorpionHQ&layout=compact&theme=transparent&hide_border=true" />
-
-</div>---
-
-<div align="center">
-
-### Clean Code • Innovation • Performance
-
-</div>
+To deliver scalable, reliable, and modern software solutions while maintaining the highest standards of quality and professionalism.
